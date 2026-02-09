@@ -1,0 +1,25 @@
+{
+  "title": "Mamas Photo Cleaner",
+  "select_folder": "Select Folder",
+  "scan_duplicates": "Scan for Duplicates",
+  "delete_selected": "Delete Selection",
+  "language": "Switch Language",
+  "exit": "Exit",
+  "select_folder_info": "No folder selected",
+  "folder_selected": "Selected",
+  "warning": "Warning",
+  "no_folder_selected": "Please select a folder first.",
+  "info": "Info",
+  "scan_not_ready": "Duplicate detection is not implemented yet.",
+  "delete_not_ready": "Delete function is not implemented yet.",
+  "placeholder_info": "Image preview and duplicate list will appear here later.",
+  "enlarge": "Enlarge",
+  "no_duplicates_found": "No duplicates found.",
+  "export": "Export",
+  "export_success": "Export completed successfully!",
+  "no_export_data": "No data to export.",
+  "choose_export_folder": "Choose a folder to save the export",
+
+  "legend_yellow": "🟨 = Duplicate in other folder ",
+  "legend_blue": "🟦 = Duplicate in same folder"
+}
