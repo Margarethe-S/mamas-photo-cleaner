@@ -35,6 +35,20 @@ Die App entstand, weil meine Mutter sich eine einfache Lösung gewünscht hat, u
 
 ---
 
+## 🧩 Kompatibilität
+
+
+Im GitHub-Release stehen zwei Versionen zur Verfügung:
+
+
+- **MamasPhotoCleaner.zip** – für moderne Windows-Systeme (Windows 10 / 11)
+- **MamasPhotoCleaner_Legacy.zip** – für ältere Windows-Systeme (Windows 7 / 8)
+
+
+Bitte die Version wählen, die zum eigenen Betriebssystem passt.
+
+---
+
 ## ⚙️ Installation
 
 1. Lade das ZIP-Archiv von GitHub herunter  
