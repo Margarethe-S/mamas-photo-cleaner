@@ -25,6 +25,20 @@ The app was created because my mother wanted a simple solution to remove duplica
 
 ---
 
+## 🧩 Compatibility
+
+
+Two versions are available in the GitHub Release:
+
+
+- **MamasPhotoCleaner.zip** – for modern Windows systems (Windows 10 / 11)
+- **MamasPhotoCleaner_Legacy.zip** – for older Windows systems (Windows 7 / 8)
+
+
+Choose the version that matches your operating system.
+
+---
+
 ## 💻 System Requirements
 
 - Windows system (tested from Windows 10 upward)
